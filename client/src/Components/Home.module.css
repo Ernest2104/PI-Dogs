@@ -1,0 +1,59 @@
+.image {
+    /*background-image: url(https://wallpapercave.com/wp/wp10076941.jpg);
+    background-repeat:no-repeat;*/
+    background: linear-gradient(to right, #ffefba, #ffffff);
+}
+
+.title{
+    margin-top: 0;
+    margin-bottom: 5px;
+    color:antiquewhite;
+    font-size: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.color{
+    background-color: white;
+}
+
+.color_section{
+    /*background: url(https://st2.depositphotos.com/1106005/7661/i/950/depositphotos_76618911-stock-photo-black-and-white-dog-paw.jpg);*/
+    background: linear-gradient(to right, #c31432, #240b36);
+    /*background-color: black;*/
+    position: sticky;
+    top: 0;
+    
+}
+
+.option{
+    background-color: #4c4e50;
+    color: white;
+    padding: 5px;
+    width: 250px;
+    border: none;
+    font-size: 16px;
+    box-shadow: 0 5px 25px rgba(230, 225, 225, 0.2);
+    -webkit-appearance: button;
+    appearance: button;
+    outline: none;
+    border-radius: 5px;
+}
+
+.btn_grad {
+   background-image: linear-gradient(to right, #2b5876 0%, #4e4376  51%, #2b5876  100%);
+   margin: 10px;
+   padding: 15px 45px;
+   text-align: center;
+   text-transform: uppercase;
+   transition: 0.5s;
+   background-size: 200% auto;
+   color: white;            
+   box-shadow: 0 0 20px #eee;
+   border-radius: 10px;
+ }
+
+ .btn_grad:hover {
+   background-position: right center; /* change the direction of the change here */
+   color: #fff;
+   text-decoration: none;
+ }

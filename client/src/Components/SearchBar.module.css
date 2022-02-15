@@ -1,0 +1,29 @@
+.search{
+  width: 20%;
+  border: 1px solid rgb(97, 96, 96);
+  border-radius: 10px;
+  margin: 15px 5px;
+  font-size: 18px;
+  background-color:darkgray;
+  background-image: url(https://cdn-icons-png.flaticon.com/16/639/639375.png);
+  background-position: 5px 5px;
+  background-repeat: no-repeat;
+  padding: 5px 25px 5px 20px;
+  }
+
+  
+.btn_search{
+  
+  background-image:url(https://cdn-icons-png.flaticon.com/128/12/12638.png);
+  background-repeat:no-repeat;
+  background-position:center;
+  height:50px;
+  width:50px;
+  background-size: 45px 45px;
+  border-radius: 10px;
+  padding: 15px ;
+}
+
+.btn_search:hover{
+  background-image:url(https://cdn-icons-png.flaticon.com/512/639/639375.png);
+}

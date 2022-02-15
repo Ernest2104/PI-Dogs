@@ -1,0 +1,17 @@
+.image {
+    max-width: 500px;
+    height: auto;
+    padding: 1px;
+    border-style: solid;
+    border-width: 8px;
+    border-color:lightslategray;
+    border-radius: 5px;
+}
+
+.marco {
+    border: 3px solid darkblue;
+    margin: 50px 400px;
+    background: linear-gradient(to right, #c31432, #240b36);
+    /*background-color: black;*/
+    color: antiquewhite;
+}
